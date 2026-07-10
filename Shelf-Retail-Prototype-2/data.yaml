@@ -1,0 +1,14 @@
+names:
+- Apple
+- Choco Fills
+- Choco Pie
+nc: 3
+roboflow:
+  license: BY-NC-SA 4.0
+  project: shelf-retail-prototype
+  url: https://universe.roboflow.com/college-project-gazum/shelf-retail-prototype/dataset/2
+  version: 2
+  workspace: college-project-gazum
+test: ../test/images
+train: ../train/images
+val: ../valid/images
