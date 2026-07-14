@@ -2,6 +2,7 @@
 🚀 [Try it live](https://shelf-monitor.onrender.com)
 
 > Note: First load may take 30–60 seconds (free tier cold start)
+> Note: Free tier inference takes 2-3 minutes. For instant resuts, run locally with python app.py
 
 # Retail Shelf Monitor
 
