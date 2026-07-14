@@ -1,3 +1,8 @@
+## Live Demo
+🚀 [Try it live](https://shelf-monitor.onrender.com)
+
+> Note: First load may take 30–60 seconds (free tier cold start)
+
 # Retail Shelf Monitor
 
 Detects out-of-stock and low-stock zones on retail shelf 
