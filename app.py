@@ -159,4 +159,6 @@ with gr.Blocks(title="Retail Shelf Monitor") as demo:
         history_out = gr.DataFrame(label="Recent scans")
         history_btn.click(fn=show_history, outputs=history_out)
 
-demo.launch(server_name="0.0.0.0", server_port=7860)
+import os
+port = int(os.environ.get("PORT", 7860))
+demo.launch(server_name="0.0.0.0", server_port=port)
